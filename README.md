@@ -1,3 +1,5 @@
+<img src="image-profile.png" alt="Habibat Jimoh - Data Analyst" width="100%">
+
 ### Hello 👋,
 
 I'm Habibat, a Data Analyst with a passion for finding patterns in large datasets and sharing them through simple, easy-to-understand visualizations. I also enjoy building and maintaining end-to-end data pipelines.
