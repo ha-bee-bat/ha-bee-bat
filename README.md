@@ -1,5 +1,10 @@
 ### Hello 👋, I'm Habibat 
+---
 
-I am a Data Analyst with passion for analyzing the underlying patterns within large datasets, and sharing them in simple, easy to understand visualizations. I have received certifications in Data Analysis and Visualization from Datacamp and I enjoy structuring complexities and organizing details into interactive reports, visualizations, and presentations. As an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies from scratch for the development and continuous improvement of operational processes.
+A Data Analyst with a passion for finding patterns in large datasets and sharing them through simple, easy-to-understand visualizations. I also enjoy building and maintaining end-to-end data pipelines.
 
-Some technologies I enjoy working with include Microsoft Office (Excel, Word and PowerPoint), SQL Languages (SQL, MySQL, PostgreSQL), Jupyter Notebook, Tableau and PowerBI.
+- 🛠 Skills: Python · SQL · PowerBI · Excel · Data Analysis · Data Engineer
+- 📫 Get in touch: [Email](habibatjimoh9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/habibatjimoh/)
+
+### 📊 Featured project
+- **[Investment Portfolio Pipeline](https://github.com/ha-bee-bat/portfolio-analytics)**: automated pipeline that tracks a portfolio's value in USD and Nigerian naira. Ingests prices, exchange rates and trades into Neon Postgres, transforms them with dbt, visualises them in Metabase and refreshes every weekday with GitHub Actions. Found that the portfolio was up about 12% in USD but only about 5% in NGN, because the naira strengthened after purchase. `Python` `SQL` `Neon` `dbt` `Airbyte` `GitHub Actions` `Metabase`
